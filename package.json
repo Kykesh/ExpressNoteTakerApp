@@ -1,12 +1,13 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple note-taking application with Express.js back end.",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.3",
